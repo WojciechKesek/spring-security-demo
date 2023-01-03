@@ -1,2 +1,2 @@
 # spring-security-demo
-Basic app to practice spring-security
+Basic app for practice spring-security
